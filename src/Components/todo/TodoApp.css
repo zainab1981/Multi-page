@@ -1,5 +1,5 @@
 .todoo{
-    background-image: url(../../Assets/wall5.jpg);
+    background-image: url(../../Assets/todo.jpg);
     height: 86.5vh;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@
     text-align: center;
 }
 .searchBar{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 252, 199);
     border: 1px solid black;
     border-radius: 15px;
     /* box-shadow: 0 0 15px 5px rgba(2, 84, 248, 0.7); */
@@ -30,7 +30,7 @@
     margin-right: 2px;
 }
 .todo-list{
-    background-color: rgb(213, 240, 240);
+    background-color: rgb(255, 252, 199);
     padding: 0.5px 9px 9px 9px;
     border: 0px;
     border-radius: 10px;
@@ -40,7 +40,7 @@
 .todo-name{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(179, 210, 255);
+    background-color: rgb(242, 172, 131);
     margin:15px 0;
     padding: 10px;
     width: 280px;
